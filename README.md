@@ -1,6 +1,6 @@
 # Paintball Callout Trainer — README
 
-Train your awareness: this app plays a looping **background MP3** of paintball markers and randomly **speaks callouts** pulled from a simple `.txt` file (one callout per line). You can adjust **music** and **voice** volumes independently and start/stop whenever you want.
+Train your awareness: this app plays a looping **background MP3** of paintball markers and randomly **speaks callouts** pulled from a simple `.txt` file (one callout per line). You can adjust **music** and **voice** volumes independently and start/stop whenever you want. For the best training effect, run the app while doing something that demands your full attention—like playing a fast-paced FPS game, solving problems, or reading a book. The idea is to practice picking up and reacting to callouts in the background without breaking focus on your primary task.
 
 ---
 
